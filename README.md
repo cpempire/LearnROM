@@ -7,5 +7,5 @@ Model reduction is known very challenging for high-dimensional parametric proble
 <p>
 <img src="images/hessian.png" width=30%>
   <img src="images/block256x256_1.png" width=30%>
-  <img src="reduction.png" width=30%>
+  <img src="images/porousmedium1.png" width=30%>
 </p>
